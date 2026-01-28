@@ -1,6 +1,6 @@
 FROM python:3.9-alpine
 
-ENV REPO_URL=https://github.com/netbox-community/devicetype-library.git
+ENV REPO_URL=https://github.com/svsc99/Device-Type-Library-Import.git
 WORKDIR /app
 COPY requirements.txt .
 
